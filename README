@@ -4,7 +4,9 @@ Dynamic Server written for the Internet Technologies course in
 The Hebrew University, 2015 - 2016.
 
 Written on NodeJs, emulating the Express framework using their API and the
-simple http framework.
+simple net framework.
+
+It contains everything from a parser, to the event handler modules.
 
 Thus, all the huji prefixes are acronyms to "hebrew university jerusalem israel".
 
