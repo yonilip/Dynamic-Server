@@ -1,0 +1,11 @@
+@Authors: Jonathan Lipman, Maor Ivgi
+
+Dynamic Server written for the Internet Technologies course in
+The Hebrew University, 2015 - 2016.
+
+Written on NodeJs, emulating the Express framework using their API and the
+simple http framework.
+
+Thus, all the huji prefixes are acronyms to "hebrew university jerusalem israel".
+
+
